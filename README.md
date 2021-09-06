@@ -1,2 +1,2 @@
-# Reisen-A6M.github.io
-nothing important
+# 记录每天幸福的三件事
+- [简书](http://jianshu.com)
