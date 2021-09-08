@@ -17,5 +17,5 @@
 
 <center>
 
-![image](assets/Image/R-C.png)
+![](assets/Image/R-C.png)
 </center>
