@@ -17,5 +17,12 @@
 
 <center>
 
-![](assets/Image/R-C.png)
+![image](assets/Image/R-C.png)
 </center>
+
+</br>
+
+<div align='center'>
+
+![](assets/Image/R-C.png)
+</div>
