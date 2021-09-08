@@ -1,6 +1,6 @@
 # <center>记录每天幸福的三件事</center>
 
-## <center>[总览](markdown/all.md)</center>
+## [<center>总览</center>](markdown/all.md)
 
 ## 日期查询：
 
