@@ -1,9 +1,6 @@
 # 每日3件幸福的事
 
-#### 介绍
-Mandarin HW
-
-#### <center>总览</center>
+### <center>总览</center>
 
 #### 记录0901
 - 在每一门课上都有认识的同学
