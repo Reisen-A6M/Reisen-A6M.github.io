@@ -26,3 +26,7 @@
 
 ![](assets/Image/R-C.png)
 </div>
+
+</br>
+
+<img src="assets/Image/R-C.png" align='center'>
