@@ -15,18 +15,4 @@
 - [9月9日](markdown/0909.md)
 - [9月10日](markdown/0910.md)
 
-<center>
-
 ![image](assets/Image/R-C.png)
-</center>
-
-</br>
-
-<div align='center'>
-
-![](assets/Image/R-C.png)
-</div>
-
-</br>
-
-<img src="assets/Image/R-C.png" align='center' />
