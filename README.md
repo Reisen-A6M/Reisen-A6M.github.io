@@ -15,5 +15,4 @@
 - [9月9日](markdown/0909.md)
 - [9月10日](markdown/0910.md)
 
-img{text-align: center; margin: 0 auto;}
-![image](assets/Image/R-C.png)
+<div align=center>![image](assets/Image/R-C.png)
