@@ -15,4 +15,5 @@
 - [9月9日](markdown/0909.md)
 - [9月10日](markdown/0910.md)
 
-![avatar](assets/Image/R-C.png)
+img{text-align: center; margin: 0 auto;}
+![image](assets/Image/R-C.png)
