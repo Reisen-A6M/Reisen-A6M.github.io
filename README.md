@@ -14,3 +14,5 @@
 - [9月8日](markdown/0908.md)
 - [9月9日](markdown/0909.md)
 - [9月10日](markdown/0910.md)
+
+![avatar](assets/Image/R-C.png)
