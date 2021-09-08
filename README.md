@@ -2,7 +2,7 @@
 
 ## [<center>总览（点击此处进入）</center>](markdown/all.md)
 
-## 日期查询：
+## <center>日期查询</center>
 
 - [9月1日](markdown/0901.md)
 - [9月2日](markdown/0902.md)
