@@ -4,8 +4,8 @@
 
 #### 记录0901
 - 在每一门课上都有认识的同学
-- 完成了一幅耗时4天的desmos函数画
 - 物理老师告诉我们可以用project代替考试
+- [完成了一幅耗时4天的desmos函数画](https://www.desmos.com/calculator/h36nhfxuph?lang=zh-CN)
 
 #### 记录0902
 - 第一次见到英12老师，听了他有趣的自我介绍，个人经历
