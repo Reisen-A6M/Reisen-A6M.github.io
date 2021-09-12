@@ -11,9 +11,6 @@
 - [9月5日](markdown/0905.md)
 - [9月6日](markdown/0906.md)
 - [9月7日](markdown/0907.md)
-- [9月8日](markdown/0908.md)
-- [9月9日](markdown/0909.md)
-- [9月10日](markdown/0910.md)
 
-
+<br/>
 <center><img src="assets/Image/R-C.png"></center>
