@@ -24,7 +24,7 @@
 
 ### 记录0905
 - 和爸爸讨论学校作业
-- 爸爸在送我去学校的时候给我讲学校里的事，让我感受到了家的温馨
+- 看完FrontWing推出的[《ATRI -MY DEAR MOMENTS-》](https://zh.moegirl.org.cn/ATRI_-My_Dear_Moments-)，非常感动，也让我对A.I.的发展产生了新的思考。
 - 父母为我多准备了100元饭费让我改善伙食
 
 #### 记录0906
