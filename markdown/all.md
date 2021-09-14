@@ -2,7 +2,7 @@
 
 ### <center>总览</center>
 
-#### 记录0901
+#### [记录0901](0901.md)
 - 在每一门课上都有认识的同学
 - 物理老师告诉我们可以用project代替考试
 - [完成了一幅耗时4天的desmos函数画](https://www.desmos.com/calculator/h36nhfxuph?lang=zh-CN)
